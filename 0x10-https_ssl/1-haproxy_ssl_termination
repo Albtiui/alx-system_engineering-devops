@@ -47,5 +47,5 @@ frontend clickviral-frontend-https
 
 backend btiui-backend
         balance roundrobin
-        server 151666-web-01 54.173.84.219:80 check
-        server 151666-web-02 100.26.142.37:80 check
+        server 475612-web-01 54.173.84.219:80 check
+        server 475612-web-02 100.26.142.37:80 check
